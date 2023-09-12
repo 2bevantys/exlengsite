@@ -1,0 +1,3 @@
+cd C:\Users\Zver\Desktop\pyt\django_exleng
+.\venv\Scripts\activate
+cd exleng
